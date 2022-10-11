@@ -1,0 +1,12 @@
+.nav-logo{
+    height: 120px;
+    width: 120px;
+}
+.navbar{
+    padding: 0px !important;
+}
+.nav-container{
+    background-color: #A9C9FF;
+    padding: 0px;
+    margin: 0px;
+}

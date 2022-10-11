@@ -1,0 +1,11 @@
+.loadposition{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+position: absolute; /* child */
+    top: 50%;
+    left: 50%;
+    margin-left: -39px; /* half of width*/
+    margin-top: -39px; /* half of height */
+}

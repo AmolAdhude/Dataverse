@@ -1,0 +1,22 @@
+
+.data-img{
+    align-self: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+.data{
+    margin: 3rem;
+}
+.d-img{
+    margin: 3rem;
+}
+.info{
+    font-family: Basis Grotesque,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-size: 20px;
+    line-height: 1.4;
+    text-align: center;
+    margin: 3rem;
+}
